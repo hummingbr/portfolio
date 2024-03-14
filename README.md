@@ -23,4 +23,4 @@
 >Java 8 / Spring Boot / Gradle / Python / JavaScript
 >MySQL / Oracle / 전자정부 프레임워크 
 >  
->[프로젝트 상세 설명](https://github.com/2021-SMHRD-KDT-AI-15/SNSRepo) 참고
+>[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/RepoUp/tree/master) 참고
