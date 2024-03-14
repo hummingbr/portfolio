@@ -1,17 +1,16 @@
 #  다은 포트폴리오
 >끊임없이 배우는 개발자  
-2
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
-
+전남대학교 소프트웨어공학과 졸업(2019.3 ~ 2023.8)
+스마트인재개발원 언어지능기반 분석서비스 모델 개발자과정 진행중
 </br>
 
 ## :pushpin: Contact
 - 이메일: hummingbr711@gmail.com
 - 블로그: 
-- 깃헙: https://github.com/JungHyung2
+- 깃헙: https://github.com/hummingbr
 
 </br>
 
