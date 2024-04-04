@@ -4,9 +4,9 @@
 
 ## :pushpin: Intro
 전남대학교 소프트웨어공학과 졸업(2019.3 ~ 2023.8) <br>
-스마트인재개발원 언어지능기반 분석서비스 모델 개발자과정 진행중
+스마트인재개발원 언어지능기반 분석서비스 모델 개발자과정 진행중(2023. 9.30~)
  
-JAVA / JSP / Python / 전자정부프레임워크 <br>
+JAVA / JSP / Python / Spring-boot / 전자정부프레임워크 / React <br>
 MySQL / Oracle / Apache Tomcat / Springframework/ Git
 </br>
 
