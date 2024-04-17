@@ -22,7 +22,7 @@ MySQL / Oracle / Apache Tomcat / Springframework / Git
 >개발 기간: 2023.12.15 ~ 2024.01.24 
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Python / JavaScript
+>Java 8 / Spring Boot / Gradle / Python / JavaScript / 
 >MySQL / Oracle / 전자정부 프레임워크 
 >  
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/RepoUp/tree/master) 참고
@@ -33,7 +33,7 @@ MySQL / Oracle / Apache Tomcat / Springframework / Git
 >개발 기간: 2024.02.15 ~ 2024.04.15
 >  
 >기술 스택:  
->Java 17 / Spring Boot / Python / JavaScript
->MySQL / AWS / Tailwind / React / 
+>Java 17 / Spring Boot / Python / JavaScript / 
+>MySQL / AWS / Tailwind / React  
 >  
 >[프로젝트 상세 설명](https://github.com/Project-TokTalk/backend/blob/main/README.md) 참고
