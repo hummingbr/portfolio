@@ -37,6 +37,7 @@ Git, AWS, Apache Tomcat
 >MySQL / Oracle / 전자정부 프레임워크 
 >
 >맡은 역할 : Cosine유사도를 활용한 코디 이미지와 의상 간의 유사도 분석 및 추천 알고리즘 반영 / 네이버 데이터랩 패션 트렌드 데이터, 기상청 API 데이터 연결
+>
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/RepoUp/tree/master) 참고
 
 ### 2. [포트폴리오](https://github.com/Project-TokTalk/backend)
@@ -48,4 +49,5 @@ Git, AWS, Apache Tomcat
 >MySQL / AWS / Tailwind CSS / React / TypeScript
 >
 >맡은 역할 : 관리자 대시보드 프론트엔드 작업, 챗봇과 플라스크 연결, 대시 보드 내의 응답 불가 답변 조회 및 관리와 채팅 이력 조회 기능 구현
+>
 >[프로젝트 상세 설명](https://github.com/Project-TokTalk/backend/blob/main/README.md) 참고
