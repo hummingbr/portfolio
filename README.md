@@ -12,7 +12,6 @@ MySQL / Oracle / Apache Tomcat / Springframework/ Git
 
 ## :pushpin: Contact
 - 이메일: hummingbr711@gmail.com
-- 블로그: 
 - 깃헙: https://github.com/hummingbr
 
 </br>
@@ -27,3 +26,14 @@ MySQL / Oracle / Apache Tomcat / Springframework/ Git
 >MySQL / Oracle / 전자정부 프레임워크 
 >  
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/RepoUp/tree/master) 참고
+
+## :pushpin: Projects
+### 2. [포트폴리오](https://github.com/Project-TokTalk/backend)
+>외국인 창업자를 위한 공공기관 챗봇 서비스 (팀 프로젝트)  
+>개발 기간: 2024.02.15 ~ 2024.04.15
+>  
+>기술 스택:  
+>Java 17 / Spring Boot / Python / JavaScript
+>MySQL / AWS / Tailwind / React / 
+>  
+>[프로젝트 상세 설명](https://github.com/Project-TokTalk/backend/blob/main/README.md) 참고
