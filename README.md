@@ -27,7 +27,6 @@ MySQL / Oracle / Apache Tomcat / Springframework / Git
 >  
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/RepoUp/tree/master) 참고
 
-## :pushpin: Projects
 ### 2. [포트폴리오](https://github.com/Project-TokTalk/backend)
 >외국인 창업자를 위한 공공기관 챗봇 서비스 (팀 프로젝트)  
 >개발 기간: 2024.02.15 ~ 2024.04.15
