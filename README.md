@@ -7,7 +7,7 @@
 스마트인재개발원 언어지능기반 분석서비스 모델 개발자과정 수료(2023.9.30~2024.4.17)
  
 JAVA / JSP / Python / Spring-boot / 전자정부프레임워크 / React <br>
-MySQL / Oracle / Apache Tomcat / Springframework/ Git
+MySQL / Oracle / Apache Tomcat / Springframework / Git
 </br>
 
 ## :pushpin: Contact
