@@ -36,6 +36,6 @@ MySQL / Oracle / Apache Tomcat / Springframework / Git
 >  
 >기술 스택:  
 >Java 17 / Spring Boot / Python / JavaScript / 
->MySQL / AWS / Tailwind / React  
+>MySQL / AWS / Tailwind CSS / React / TypeScript  
 >  
 >[프로젝트 상세 설명](https://github.com/Project-TokTalk/backend/blob/main/README.md) 참고
