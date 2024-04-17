@@ -18,7 +18,7 @@ JAVA / JSP / Python / Spring-boot / 전자정부프레임워크
 #### DataBase
 MySQL, Oracle
 
-### 형상관리 및 Server
+#### 형상관리 및 Server
 Git, AWS, Apache Tomcat
 
 ## :pushpin: Contact
@@ -33,7 +33,7 @@ Git, AWS, Apache Tomcat
 >개발 기간: 2023.12.15 ~ 2024.01.24 
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Python / JavaScript / 
+>Java 8 / Spring Framework / Gradle / Python / JavaScript / 
 >MySQL / Oracle / 전자정부 프레임워크 
 >  
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/RepoUp/tree/master) 참고
