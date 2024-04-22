@@ -35,7 +35,7 @@ Git, AWS, Apache Tomcat
 >Java 8 / Spring Framework / Gradle / Python / JavaScript / 
 >MySQL / Oracle / 전자정부 프레임워크 
 >
->맡은 역할 : Cosine유사도를 활용한 코디 이미지와 의상 간의 유사도 분석 및 추천 알고리즘 반영 /
+>맡은 역할 : Cosine유사도를 활용한 코디 이미지와 의상 간의 유사도 분석 및 추천 알고리즘 반영 / <br>
 >네이버 데이터랩 패션 트렌드 데이터, 기상청 API 데이터 연결
 >
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/RepoUp/tree/master) 참고
@@ -48,7 +48,7 @@ Git, AWS, Apache Tomcat
 >Java 17 / Spring Boot / Python / JavaScript / 
 >MySQL / AWS / Tailwind CSS / React / TypeScript
 >
->맡은 역할 : 관리자 대시보드 프론트엔드 작업, 챗봇과 플라스크 연결,
+>맡은 역할 : 관리자 대시보드 프론트엔드 작업, 챗봇과 플라스크 연결, <br>
 >대시 보드 내의 응답 불가 답변 조회 및 관리와 채팅 이력 조회 기능 구현
 >
 >[프로젝트 상세 설명](https://github.com/Project-TokTalk/backend/blob/main/README.md) 참고
@@ -57,5 +57,5 @@ Git, AWS, Apache Tomcat
 ## :pushpin: Education
 >전남대학교 소프트웨어공학과 졸업(2019.3 ~ 2023.8) <br>
 >스마트인재개발원 언어지능기반 분석서비스 모델 개발자과정 수료(2023.9.30~2024.4.17)
-> -수료중 3회의 팀 프로젝트 참여, 1040시간 수강
+>-수료중 3회의 팀 프로젝트 참여, 1040시간 수강 <br>
 >
