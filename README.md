@@ -27,7 +27,7 @@ Git, AWS, Apache Tomcat
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/2023-SMHRD-IS-AI1/RepoUp)
+### 1. [Trendy Peop](https://github.com/2023-SMHRD-IS-AI1/RepoUp)
 >2~30대 여성들을 위한 패션 대시보드 (팀 프로젝트)  
 >개발 기간: 2023.12.15 ~ 2024.01.24 
 >  
@@ -40,7 +40,7 @@ Git, AWS, Apache Tomcat
 >
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/RepoUp/tree/master) 참고
 
-### 2. [포트폴리오](https://github.com/Project-TokTalk/backend)
+### 2. [TokTalk](https://github.com/Project-TokTalk/backend)
 >외국인 창업자를 위한 공공기관 챗봇 서비스 (팀 프로젝트)  
 >개발 기간: 2024.02.15 ~ 2024.04.15
 >  
